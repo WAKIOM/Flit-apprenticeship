@@ -1,6 +1,6 @@
 # MARKET BASKET ANALYSIS
 
-<img src="https://github.com/WAKIOM/Market-basket-analysis-ecommerce/blob/22aa076a320c4714a6ae38a7c49b9892283ce413/Market%20basket.jpeg" height="400" width="300" />
+<img src="https://github.com/WAKIOM/Flit-apprenticeship/blob/master/Market-basket-analysis-ecommerce/Market%20basket.jpeg" height="400" width="400" />
 
 # Overview
 For this project, I'm acting as a data analyst who works for a retail company. My task is to perform market basket analysis to uncover patterns in customer purchasing behavior, to identify which products tend to be bought together inorder to help the company make informed decisions, to improve sales and improve customer satisfaction.
