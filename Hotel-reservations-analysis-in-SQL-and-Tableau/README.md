@@ -1,15 +1,25 @@
 # HOTEL RESERVATION ANALYSIS IN SQL AND TABLEAU
-# OVERVIEW
+
+## OVERVIEW
 A hotel chain i won't mention, has reached out wanting to gain insights from the reservations data they have, The aim is to use SQL and Tableau to explore, analyze and come up with a dashboard.
+
 ## TOOLS
 	MySQL 
 	TABLEAU 
+
 ## [METADATA](https://github.com/WAKIOM/Flit-apprenticeship/blob/master/Hotel-reservations-analysis-in-SQL-and-Tableau/SQL_files/description.md) 
+
 # HIGH LEVEL STEPS
 ## 1. Data Import
 #### Table creation and data importation
-- Created the reservations table skeleton, then imported the data using the `LOAD DATA INLINE` function which is way faste compared to the data import wizard.
-- Downloaded data containing country codes from [kaggle.com](https://www.kaggle.com/datasets/juanumusic/countries-iso-codes/data) and their respective name which i later used to enrich the country column in the reservations table
+- Created the reservations table skeleton, then imported the csv file using the `LOAD DATA INLINE` function which is way faster compared to the data import wizard.
+	LOAD DATA INFILE 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\hotel_reservations.csv'
+	INTO TABLE reservations
+	FIELDS TERMINATED BY ','
+	LINES TERMINATED BY '\r\n'
+	IGNORE 1 LINES;
+- Downloaded data containing country codes from [kaggle.com](https://www.kaggle.com/datasets/juanumusic/countries-iso-codes/data) and their respective name which i loaded the csv file to the database, later used it to enrich the country column in the reservations table
+
 ## 2. Data  Exploration and Cleaning
 #### Check for Duplicates
 - Checked for duplicate groups, 8186 duplicate groups found.
@@ -101,4 +111,4 @@ Diving deep into the analysis, Below are the questions that guided my analysis p
 [Link to Published Tableau Visualization]()
 
 # PRESENTATION
-
+![Link to presentation]()
