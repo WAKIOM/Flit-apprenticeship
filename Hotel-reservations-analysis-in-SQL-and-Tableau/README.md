@@ -107,8 +107,8 @@ Diving deep into the analysis, Below are the questions that guided my analysis p
 - How does the lead time differ across different months?
 - What is the average lead time for reservations from different countries? 
 
-# Tableau Visualization 
+## Tableau Visualization 
 [Link to Published Tableau Visualization]()
 
-# PRESENTATION
+## Presentation
 ![Link to presentation]()
