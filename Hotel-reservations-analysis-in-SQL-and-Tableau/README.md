@@ -11,7 +11,7 @@ A hotel chain i won't mention, has reached out wanting to gain insights from the
 
 # HIGH LEVEL STEPS
 ## 1. Data Import
-#### Table creation and data importation
+#### [Table creation and data importation](https://github.com/WAKIOM/Flit-apprenticeship/blob/master/Hotel-reservations-analysis-in-SQL-and-Tableau/SQL_files/tables_creation.sql)
 - Created the reservations table skeleton, then imported the csv file using the `LOAD DATA INLINE` function which is way faster compared to the data import wizard.
 	LOAD DATA INFILE 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\hotel_reservations.csv'
 	INTO TABLE reservations
