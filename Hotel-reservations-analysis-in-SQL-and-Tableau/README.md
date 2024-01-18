@@ -108,7 +108,8 @@ Diving deep into the analysis, Below are the questions that guided my analysis p
 - What is the average lead time for reservations from different countries? 
 
 ## 4. Tableau Visualization 
-[Link to Published Tableau Visualization]()
 
+[Link to Published Tableau Visualization](https://public.tableau.com/views/Hotelreservationsanalysis/Reservationsanalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+![visualization]()
 ## 5. Presentation
 ![Link to presentation]()
