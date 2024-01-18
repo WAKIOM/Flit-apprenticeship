@@ -109,7 +109,8 @@ Diving deep into the analysis, Below are the questions that guided my analysis p
 
 ## 4. Tableau Visualization 
 
-[Link to Published Tableau Visualization](https://public.tableau.com/views/Hotelreservationsanalysis/Reservationsanalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
-![visualization]()
+### [Link to Published Tableau Visualization](https://public.tableau.com/views/Hotelreservationsanalysis/Reservationsanalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+![visualization](https://github.com/WAKIOM/Flit-apprenticeship/blob/master/Hotel-reservations-analysis-in-SQL-and-Tableau/customer%20segmentation.png)
 ## 5. Presentation
-![Link to presentation]()
+![Hotel reservations story]()
