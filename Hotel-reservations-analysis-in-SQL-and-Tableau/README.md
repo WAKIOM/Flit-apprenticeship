@@ -113,4 +113,4 @@ Diving deep into the analysis, Below are the questions that guided my analysis p
 
 ![visualization](https://github.com/WAKIOM/Flit-apprenticeship/blob/master/Hotel-reservations-analysis-in-SQL-and-Tableau/customer%20segmentation.png)
 ## 5. Presentation
-![Hotel reservations story]()
+### [Hotel reservations story](https://github.com/WAKIOM/Flit-apprenticeship/blob/master/Hotel-reservations-analysis-in-SQL-and-Tableau/Reservations%20analysis%20Story.pdf)
